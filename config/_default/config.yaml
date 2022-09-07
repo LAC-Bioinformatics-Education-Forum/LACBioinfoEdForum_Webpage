@@ -5,7 +5,7 @@ theme: "starter-hugo-academic"
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: LACBioinfoEdForum # Website name
-baseurl: 'https://seh2bioinfo.netlify.com/' # Website URL
+baseurl: 'https://lac-bioinfo-education-forum.netlify.app/' # Website URL
 copyright: 'Developed by Sebastián Ayala Ruano' # Footer text, e.g. '© {year} Me'
 
 ############################
