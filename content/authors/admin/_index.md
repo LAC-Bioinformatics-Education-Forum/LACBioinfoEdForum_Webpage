@@ -33,7 +33,7 @@ Specifically, the event will address the following topics:
   
 ---
 ## **Registration** :memo:
-You can register to the LAC [here](https://www.iscb.org/la2022-register).
+You can register to the LAC Forum on Bioinformatics Education 2022 [here](https://www.iscb.org/la2022-register).
 
 ---
 ## **Detailed description of the event and brief history**
