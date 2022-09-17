@@ -17,7 +17,7 @@ main:
     url: '#code_conduct'
     weight: 40
   - name: Collaborators
-    url: ''
+    url: 'patrocinadores_y_colaboradores'
     weight: 60
   - name: Bioinformatics education in LAC
     url: ''

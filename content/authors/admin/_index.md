@@ -28,12 +28,12 @@ Specifically, the event will address the following topics:
 
 ---
 ## **Key dates** :pushpin:
-- Inscription deadline: <span style="color:#012b7d"> to be confirmed </span> 
-- Forum day:<span style="color:#012b7d"> November 7, 2022 (VIRTUAl AND FREE)</span>
+- Inscription deadline: <span style="color:#012b7d"> Monday, October 24, 2022 </span> 
+- Forum day:<span style="color:#012b7d"> Friday, November 7, 2022 (VIRTUAL AND FREE)</span>
   
 ---
-## **Inscription** :memo:
-to be published soon
+## **Registration** :memo:
+You can register to the LAC [here](https://www.iscb.org/la2022-register).
 
 ---
 ## **Detailed description of the event and brief history**
