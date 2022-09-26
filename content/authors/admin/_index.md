@@ -28,12 +28,13 @@ Specifically, the event will address the following topics:
 
 ---
 ## **Key dates** :pushpin:
-- Inscription deadline: <span style="color:#012b7d"> Monday, October 24, 2022 </span> 
 - Forum day:<span style="color:#012b7d"> Friday, November 7, 2022 (VIRTUAL AND FREE)</span>
   
 ---
 ## **Registration** :memo:
 You can register to the LAC Forum on Bioinformatics Education 2022 [here](https://www.iscb.org/la2022-register).
+
+**Note:** Click on the *"Register for only the Second Latin-American Bioinformatics Education Forum Now"* option from the previous link to register to the forum.
 
 ---
 ## **Detailed description of the event and brief history**
