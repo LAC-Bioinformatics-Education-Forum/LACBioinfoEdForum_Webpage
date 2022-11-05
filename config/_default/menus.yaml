@@ -20,7 +20,7 @@ main:
     url: 'patrocinadores_y_colaboradores'
     weight: 60
   - name: Bioinformatics education in LAC
-    url: ''
+    url: '#bioinfoedulac'
     weight: 80
   - name: Contact
     url: '#contacto'

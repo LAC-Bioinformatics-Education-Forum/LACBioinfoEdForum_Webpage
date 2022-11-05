@@ -28,7 +28,7 @@ Specifically, the event will address the following topics:
 
 ---
 ## **Key dates** :pushpin:
-- Forum day:<span style="color:#012b7d"> Friday, November 7, 2022 (VIRTUAL AND FREE)</span>
+- Forum day:<span style="color:#012b7d"> Monday, November 7, 2022 (VIRTUAL AND FREE)</span>
   
 ---
 ## **Registration** :memo:

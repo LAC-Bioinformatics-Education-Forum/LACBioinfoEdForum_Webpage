@@ -17,4 +17,4 @@ title: Program
 type: page
 ---
 
-Program to be published soon.
+You can find the program of the forum [here](https://docs.google.com/document/d/1kL939Tghkzf5kyzGOBpErnirw6zDNSsCTGRo3L3iiTU/edit?usp=sharing)
